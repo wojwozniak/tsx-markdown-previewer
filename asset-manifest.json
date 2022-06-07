@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tsx-markdown-previewer/static/css/main.bb58f0c7.css",
+    "main.js": "/tsx-markdown-previewer/static/js/main.061d4175.js",
+    "index.html": "/tsx-markdown-previewer/index.html",
+    "main.bb58f0c7.css.map": "/tsx-markdown-previewer/static/css/main.bb58f0c7.css.map",
+    "main.061d4175.js.map": "/tsx-markdown-previewer/static/js/main.061d4175.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb58f0c7.css",
+    "static/js/main.061d4175.js"
+  ]
+}
